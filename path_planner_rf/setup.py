@@ -9,7 +9,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='BalazsSzonyi',
-    maintainer_email='szonyibali@gmail.com',
+    maintainer_email='@gmail.com',
     description='path_planner_rf_node',
     license='Apache License 2.0',
     tests_require=['pytest'],
