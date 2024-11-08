@@ -37,8 +37,8 @@ Clastered and prefiltered pointcloud points:`pc_markers`, ``
 ## Output topics: 
 
 Planned path: `spline_marker` in Marker format
-Left side of the track:`spline_right_markers` in Markerarray format
-Right side of the track:`spline_left_markers` in Markerarray format
+Left side of the track:`left_markers` in Markerarray format
+Right side of the track:`right_markers` in Markerarray format
 
 
 
