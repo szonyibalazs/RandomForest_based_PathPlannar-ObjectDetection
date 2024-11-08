@@ -12,6 +12,8 @@ Difficult to over-learn models. ``
 ## How to use:
 If you have the topics you need for this nodes, just start it and it does everything by itself. The data collection part is left running until the fault, so if you want to start teaching the model press f then enter and it will start teaching. The code will then indicate when the model is ready. It is important to note that the data collection will continue during this time, so if you teach a model at different times, you will get models of different "strengths".  
 
+Other nodes needed for inputs can be found here: ``https://github.com/szenergy/formula_student_packages.git``
+
 ## Solutions: 
 ``path_planner_trainer:``
 Trains the model to "drive" using the steering angle and clustered lidar point cloud.
