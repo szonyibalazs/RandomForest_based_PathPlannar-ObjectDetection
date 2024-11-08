@@ -15,7 +15,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'path_planner_trainer_node = path_planner_trainer.path_planner_trainer:main'
+            'path_planner_trainer_node = path_planner_trainer.path_planner_trainer_node:main'
         ],
     },
 )
