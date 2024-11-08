@@ -1,8 +1,9 @@
 # Path_planner_trainer
+This solution can learn the relationship between the steering angle and the clustered point cloud and plot a steering angle or path based on this and define the two edges of the path and mark them in blue and yellow respectively. 
 
 ![alt text](a1.png)
 ![alt text](a2.png)
-
+Structure of the trained modell 
 ## Prerequisites
 
 - ROS2 (Foxy or later)
