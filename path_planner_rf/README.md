@@ -1,7 +1,7 @@
 # Path_planner_rf
+This solution can learn the relationship between the steering angle and the clustered point cloud and plot a steering angle or path based on this and define the two edges of the path and mark them in blue and yellow respectively. 
 
 ![alt text](d.png)
-![alt text](a2.png)
 
 ## Prerequisites
 
